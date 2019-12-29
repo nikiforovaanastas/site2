@@ -3,7 +3,7 @@ body{
     padding: 0;
     outline: none;
     font-family: Geneva,sans-serif;
-	background-image: url (./background.jpg);
+	background-image: url (./site/background.jpg);
 	background-attachment: fixed;
 }
 .all{
