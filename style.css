@@ -3,7 +3,7 @@ body{
     padding: 0;
     outline: none;
     font-family: Geneva,sans-serif;
-	background-image: url (https://www.zastavki.com/rus/Backgrounds/wallpaper-87879-0.htm);
+    background-image: url (../pics/background.jpg);
 }
 .all{
     width: 960px;
